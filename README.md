@@ -24,7 +24,7 @@ A smart and privacy-focused LinkedIn DM Organizer that helps users prioritize, c
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Clerk](https://clerk.dev/) (for authentication)
 - [Arcjet](https://arcjet.com/) (for security and rate limiting)
-- [OpenAI](https://openai.com/) or [Claude](https://claude.ai/) (for AI message classification)
+- [OpenAI](https://openai.com/) or [Claude](https://claude.ai/) (for AI message-classification)
 
 > **Note:** This is the frontend repo. Backend is built using Node.js and Express.js with MongoDB.
 
