@@ -32,7 +32,7 @@ A smart and privacy-focused LinkedIn DM Organizer that helps users prioritize, c
 
 ### Prerequisites
 
-- Node.js >= 18.x
+- Node.js 
 - npm or yarn
 - LinkedIn Developer Account (for LinkedIn API keys)
 - Clerk and Arcjet API keys
