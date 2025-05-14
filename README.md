@@ -12,7 +12,7 @@ A smart and privacy-focused LinkedIn DM Organizer that helps users prioritize, c
 - 🧠 AI-powered message categorization and prioritization (e.g., Important, Networking, Spam)
 - 🚫 Automatic spam detection and removal
 - 📬 Clean and intuitive inbox UI built with **shadcn/ui** and **Tailwind CSS**
-- 📊 Analytics and message summaries
+- 📊 Analytics and message summaries.
 - 🔧 Custom prioritization rules and filter settings
 - 🌐 Secure login, data privacy, and session protection
 
